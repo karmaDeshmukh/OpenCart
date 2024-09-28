@@ -1,0 +1,64 @@
+2024-09-23 18:04:58 INFO  TC002_loginTest:22 - Clicked on login link 
+2024-09-23 18:07:13 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Acer\eclipse-workspace\OpenCart\MasterTestng.xml
+
+2024-09-23 18:07:23 INFO  TC002_loginTest:14 - ********* Startign TC_002_loginTest********
+2024-09-23 18:07:23 INFO  TC002_loginTest:19 - Clicked on MyAccount link 
+2024-09-23 18:07:24 INFO  TC002_loginTest:22 - Clicked on login link 
+2024-09-23 19:25:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Acer\eclipse-workspace\OpenCart\MasterTestng.xml
+
+2024-09-23 19:25:34 INFO  TC002_loginTest:14 - ********* Startign TC_002_loginTest********
+2024-09-23 19:25:34 INFO  TC002_loginTest:19 - Clicked on MyAccount link 
+2024-09-23 19:25:35 INFO  TC002_loginTest:22 - Clicked on login link 
+2024-09-23 19:26:18 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Acer\eclipse-workspace\OpenCart\MasterTestng.xml
+
+2024-09-23 19:28:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Acer\eclipse-workspace\OpenCart\MasterTestng.xml
+
+2024-09-23 19:30:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Acer\eclipse-workspace\OpenCart\MasterTestng.xml
+
+2024-09-23 19:30:17 INFO  TC002_loginTest:14 - ********* Startign TC_002_loginTest********
+2024-09-23 19:30:17 INFO  TC002_loginTest:19 - Clicked on MyAccount link 
+2024-09-23 19:30:17 INFO  TC002_loginTest:22 - Clicked on login link 
+2024-09-23 19:30:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Acer\eclipse-workspace\OpenCart\MasterTestng.xml
+
+2024-09-23 19:31:04 INFO  TC_001AccountRegistrationTest:15 - ******** Starting verify_account_registration *********
+2024-09-23 19:31:04 INFO  TC_001AccountRegistrationTest:21 - Clicked on MyAccount link 
+2024-09-23 19:31:05 INFO  TC_001AccountRegistrationTest:24 - Clicked on Register link 
+2024-09-23 19:31:05 INFO  TC_001AccountRegistrationTest:28 - Providing customer details 
+2024-09-23 19:31:07 INFO  TC_001AccountRegistrationTest:41 - Validating expected message.. 
+2024-09-23 19:31:08 INFO  TC_001AccountRegistrationTest:57 - ********* Finished verify_account_registration *********
+2024-09-23 19:31:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Acer\eclipse-workspace\OpenCart\MasterTestng.xml
+
+2024-09-23 19:38:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Acer\eclipse-workspace\OpenCart\MasterTestng.xml
+
+2024-09-23 19:58:01 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Acer\eclipse-workspace\OpenCart\MasterTestng.xml
+
+2024-09-23 20:14:11 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Acer\eclipse-workspace\OpenCart\MasterTestng.xml
+
+2024-09-23 20:16:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Acer\eclipse-workspace\OpenCart\MasterTestng.xml
+
+2024-09-23 20:20:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Acer\eclipse-workspace\OpenCart\MasterTestng.xml
+
+2024-09-23 20:20:40 INFO  TC002_loginTest:14 - ********* Startign TC_002_loginTest********
+2024-09-23 20:20:40 INFO  TC002_loginTest:19 - Clicked on MyAccount link 
+2024-09-23 20:20:41 INFO  TC002_loginTest:22 - Clicked on login link 
+2024-09-23 20:21:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Acer\eclipse-workspace\OpenCart\MasterTestng.xml
+
+2024-09-23 20:46:55 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Acer\eclipse-workspace\OpenCart\MasterTestng.xml
+
+2024-09-23 20:53:57 INFO  TC002_loginTest:14 - ********* Startign TC_002_loginTest********
+2024-09-23 20:53:57 INFO  TC002_loginTest:19 - Clicked on MyAccount link 
+2024-09-23 20:53:57 INFO  TC002_loginTest:22 - Clicked on login link 
